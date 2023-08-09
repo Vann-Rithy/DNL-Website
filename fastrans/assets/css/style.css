@@ -2533,13 +2533,17 @@ select:visited {
 
 .ft-slider-section-3 {
   background-color: #f6f7f9;
+  
+  
 }
 
 .ft-thx-banner-section {
   padding: 280px 0px 180px;
+  
 }
 .ft-thx-banner-section .background_overlay {
-  background-color: rgba(0, 96, 118, 0.8);
+  background-color: rgba(0, 96, 118, 0.904);
+  
 }
 
 .ft-thx-banner-text {
@@ -3142,15 +3146,15 @@ select:visited {
   padding: 15px 30px;
   margin-right: 25px;
   font-family: "Poppins";
-  border: 2px solid #fa3b0e;
+  border: 2px solid #176e03;
 }
 .ft-about-text-3 .ft-about-btn-group a i {
   margin-left: 5px;
 }
 .ft-about-text-3 .ft-about-btn-group a:hover {
   color: #fff;
-  border: 2px solid #008eff;
-  background-color: #008eff;
+  border: 2px solid #00570E;
+  background-color: #00570E;
 }
 
 @-webkit-keyframes icon-bounce {
@@ -3849,7 +3853,7 @@ select:visited {
   height: 95px;
   border-radius: 100%;
   background-color: #fff;
-  border: 10px solid #008cfb;
+  border: 10px solid #176e03;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
 }
@@ -3878,7 +3882,7 @@ select:visited {
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
   border-bottom: 70px solid #fff;
-  border-left: 339px solid rgba(255, 255, 255, 0);
+  border-left: 339px solid rgba(4, 89, 10, 0);
 }
 .ft-service-innerbox-3 .ft-service-text-icon:after {
   top: -36px;
@@ -3887,7 +3891,7 @@ select:visited {
   content: "";
   height: 15px;
   position: absolute;
-  background-color: #008eff;
+  background-color: #176e03;
   -webkit-transform: rotate(-12deg) skew(-15deg);
           transform: rotate(-12deg) skew(-15deg);
 }
@@ -3912,7 +3916,7 @@ select:visited {
   font-weight: 700;
   position: relative;
   padding: 14px 26px;
-  background-color: #008eff;
+  background-color: #176e03;
 }
 .ft-service-innerbox-3 .more-btn a:before {
   top: 0;
@@ -3923,7 +3927,7 @@ select:visited {
   position: absolute;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
-  border-bottom: 49px solid #008eff;
+  border-bottom: 49px solid #176e03;
   border-left: 16px solid transparent;
 }
 .ft-service-innerbox-3 .more-btn a i {
@@ -3932,22 +3936,22 @@ select:visited {
   transition: 500ms all ease;
 }
 .ft-service-innerbox-3 .more-btn a:hover {
-  background-color: #fa4318;
+  background-color: #30af12;
 }
 .ft-service-innerbox-3 .more-btn a:hover:before {
-  border-bottom: 49px solid #fa4318;
+  border-bottom: 49px solid #30af12;
 }
 .ft-service-innerbox-3 .more-btn a:hover i {
   margin-left: 12px;
 }
 .ft-service-innerbox-3:hover .ft-service-icon {
-  border: 10px solid #fa4318;
+  border: 10px solid #30af12;
 }
 .ft-service-innerbox-3:hover .ft-service-text-icon {
-  background-color: #01011c;
+  background-color: #0e4402;
 }
 .ft-service-innerbox-3:hover .ft-service-text-icon:before {
-  border-bottom: 70px solid #01011c;
+  border-bottom: 70px solid #0e4402;
 }
 .ft-service-innerbox-3:hover .ft-service-text h3, .ft-service-innerbox-3:hover .ft-service-text p {
   color: #fff;
@@ -3962,10 +3966,10 @@ select:visited {
   font-weight: 700;
   margin-left: 20px;
   padding: 10px 30px;
-  background-color: #008eff;
+  background-color: #176e03;
 }
 .ft-service-more-btn a:hover {
-  background-color: #fa4318;
+  background-color: #30af12;
 }
 
 .pr-cor-service-section {
@@ -4533,7 +4537,7 @@ select:visited {
   top: 2px;
   left: 0;
   font-size: 18px;
-  color: #008eff;
+  color: #00570E;
   content: "";
   font-weight: 900;
   position: absolute;
@@ -4646,12 +4650,12 @@ select:visited {
   font-weight: 700;
   border-radius: 5px;
   border-radius: 5px;
-  background-color: #008eff;
+  background-color: #00570E;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
 }
 .ft-why-choose-form button:hover {
-  background-color: #fa4318;
+  background-color: #3fbf13;
 }
 .ft-why-choose-form p {
   color: #fff;
@@ -6224,7 +6228,7 @@ select:visited {
 .ft-testimonial-slider-items-3:before {
   top: 0;
   left: 5px;
-  color: #008eff;
+  color: #00570E;
   font-size: 40px;
   content: "";
   font-weight: 900;
@@ -6256,7 +6260,7 @@ select:visited {
 .ft-testimonial-slider-3 .slick-dots li.slick-active {
   color: #0b0b0b;
   font-size: 18px;
-  border: 4px solid #008eff;
+  border: 4px solid #3fbf13;
 }
 
 .ft-thx-testimonial-section {
@@ -7508,16 +7512,16 @@ select:visited {
   margin: 0 auto;
   font-size: 14px;
   font-weight: 700;
-  background-color: #fa4318;
+  background-color: #00570E;
 }
 .ft-blog-innerbox-3 .ft-blog-text .more-btn:hover {
-  background-color: #008eff;
+  background-color: #2a9405;
 }
 .ft-blog-innerbox-3:hover .ft-blog-text {
-  background-color: #07082d;
+  background-color: #28790c;
 }
 .ft-blog-innerbox-3:hover .ft-blog-text:before {
-  border-bottom: 17px solid #07082d;
+  border-bottom: 17px solid #28790c;
   border-left: 307px solid rgba(255, 255, 255, 0);
 }
 .ft-blog-innerbox-3:hover .ft-blog-text h3 {
@@ -7545,7 +7549,7 @@ select:visited {
 .blog-slider-3 .slick-dots li.slick-active {
   color: #0b0b0b;
   font-size: 18px;
-  border: 4px solid #008eff;
+  border: 4px solid #00570E;
 }
 
 .ft-side-bar-add {
@@ -8886,7 +8890,7 @@ select:visited {
   margin: 0 auto;
   margin-bottom: 40px;
   border-radius: 100%;
-  background-color: #3b6aff;
+  background-color: #00570E;
 }
 .ft-funfact-inner-items .ft-funfact-inner-icon:after {
   left: 25px;
@@ -8895,7 +8899,7 @@ select:visited {
   position: absolute;
   border-left: 8px solid transparent;
   border-right: 8px solid transparent;
-  border-top: 10px solid #3b6aff;
+  border-top: 10px solid #00570E;
 }
 .ft-funfact-inner-items .ft-funfact-inner-icon i {
   color: #fff;
@@ -8917,10 +8921,10 @@ select:visited {
   margin-top: 70px;
 }
 .ft-funfact-slug-text span {
-  color: #000000;
+  color: #00570E;
 }
 .ft-funfact-slug-text span a {
-  color: #008eff;
+  color: 00570E;
   font-weight: 700;
   text-decoration: underline;
 }
@@ -9234,7 +9238,7 @@ select:visited {
 
 .ft-footer-section-3 .ft-newslatter-section-3 {
   padding: 40px 0px;
-  background-color: #0f0f35;
+  background-color: #134004;
 }
 .ft-footer-section-3 .ft-newslatter-section-3 .ft-newslatter-text {
   color: #fff;
