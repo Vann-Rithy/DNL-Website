@@ -252,7 +252,7 @@ Last change:    00/00/00
 								onHoverStop:false,
 								thumbnails: {
 									enable:true,
-									tmp:"<span class=\"tp-thumb-img-wrap\">  <span class=\"tp-thumb-image\"></span></span>",
+									tmp:"<span class=\"tp-thumb-img-wrap\">  <span class=\"\"></span></span>",
 									style:"gyges",
 									h_align:"left",
 									v_offset:0,

@@ -45,7 +45,7 @@ Color Code
   position: relative;
   -webkit-transition: 0.3s all ease;
   transition: 0.3s all ease;
-  background-color: #00044b;
+  background-color: #00570E;
 }
 .ft-testimonial-slider-area .slick-dots li:before, .ft-project-slider-area .slick-dots li:before, .ft-service-slider-2 .slick-dots li:before, .ft-service-slider-wrapper .slick-dots li:before {
   top: -5px;
@@ -58,13 +58,13 @@ Color Code
   border-radius: 100%;
   -webkit-transition: 0.3s all ease;
   transition: 0.3s all ease;
-  border: 2px solid #ea1e00;
+  border: 2px solid #00710B;
 }
 .ft-testimonial-slider-area .slick-dots li button, .ft-project-slider-area .slick-dots li button, .ft-service-slider-2 .slick-dots li button, .ft-service-slider-wrapper .slick-dots li button {
   display: none;
 }
 .ft-testimonial-slider-area .slick-dots li.slick-active, .ft-project-slider-area .slick-dots li.slick-active, .ft-service-slider-2 .slick-dots li.slick-active, .ft-service-slider-wrapper .slick-dots li.slick-active {
-  background-color: #ea1e00;
+  background-color: #00710B;
 }
 .ft-testimonial-slider-area .slick-dots li.slick-active:before, .ft-project-slider-area .slick-dots li.slick-active:before, .ft-service-slider-2 .slick-dots li.slick-active:before, .ft-service-slider-wrapper .slick-dots li.slick-active:before {
   opacity: 1;
@@ -257,7 +257,7 @@ select:visited {
   display: block;
 }
 .ft-section-title h2 {
-  color: #00044b;
+  color: #00570E;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.333;
@@ -2954,14 +2954,14 @@ select:visited {
   height: 55px;
   margin-right: 20px;
   border-radius: 100%;
-  background-color: #ffebeb;
+  background-color: #cafac8;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
 }
 .ft-about-feature-list-item .ft-about-feature-icon i {
   font-size: 30px;
   line-height: 0.75;
-  color: #ea1e00;
+  color: #00570E;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
 }
@@ -2969,16 +2969,16 @@ select:visited {
   max-width: 420px;
 }
 .ft-about-feature-list-item .ft-about-feature-text h3 {
-  color: #00044b;
+  color: #020117;
   font-size: 20px;
   font-weight: 700;
   padding-bottom: 5px;
 }
 .ft-about-feature-list-item:hover .ft-about-feature-icon {
-  background-color: #ea1e00;
+  background-color: #00570E;
 }
 .ft-about-feature-list-item:hover .ft-about-feature-icon i {
-  color: #00044b;
+  color: #020117;
 }
 
 .ft-about-section-2 {
@@ -3442,7 +3442,7 @@ select:visited {
   padding: 30px 25px 20px;
 }
 .ft-service-slider-item .ft-service-inner-text h3 {
-  color: #00044b;
+  color: #020117;
   font-size: 22px;
   font-weight: 700;
   padding-bottom: 18px;
@@ -3451,7 +3451,7 @@ select:visited {
   padding-bottom: 20px;
 }
 .ft-service-slider-item .ft-service-inner-text .service-more {
-  color: #00044b;
+  color: #020117;
   font-size: 15px;
   font-weight: 600;
   font-family: "Poppins";
@@ -4407,7 +4407,7 @@ select:visited {
   height: 65px;
   position: absolute;
   border-radius: 100%;
-  background-color: #00044b;
+  background-color: #00570E;
 }
 .ft-counterup-innerbox .ft-counterup-icon i {
   color: #fff;
@@ -4415,12 +4415,12 @@ select:visited {
   line-height: 0.75;
 }
 .ft-counterup-innerbox .ft-counterup-text h3 {
-  color: #00044b;
+  color: #00570E;
   font-size: 48px;
   font-weight: 700;
 }
 .ft-counterup-innerbox .ft-counterup-text p {
-  color: #00044b;
+  color: #00570E;
   font-weight: 700;
 }
 
@@ -4468,7 +4468,7 @@ select:visited {
 .ft-why-choose-feature-item .ft-why-choose-feature-icon i {
   font-size: 40px;
   line-height: 0.75;
-  color: #ea1e00;
+  color: #00570E;
 }
 .ft-why-choose-feature-item .ft-why-choose-feature-icon:before {
   top: 10px;
@@ -4479,13 +4479,13 @@ select:visited {
   height: 65px;
   position: absolute;
   border-radius: 100%;
-  background-color: #ffebe8;
+  background-color: #e6f7e2;
 }
 .ft-why-choose-feature-item .ft-why-choose-feature-text {
   max-width: 420px;
 }
 .ft-why-choose-feature-item .ft-why-choose-feature-text h3 {
-  color: #00044b;
+  color: #020117;
   font-size: 22px;
   font-weight: 700;
   padding-bottom: 10px;
@@ -5240,7 +5240,7 @@ select:visited {
   width: 100%;
   height: 400px;
   position: absolute;
-  background-color: #00044b;
+  background-color: #00570E;
 }
 .ft-project-section .ft-section-title {
   max-width: 420px;
@@ -5275,7 +5275,7 @@ select:visited {
           box-shadow: 1.045px 9.945px 60px 0px rgba(68, 68, 68, 0.15);
 }
 .ft-project-itembox .ft-project-text h3 {
-  color: #00044b;
+  color: #00570E;
   font-size: 24px;
   font-weight: 700;
   line-height: 1.5;
@@ -5297,7 +5297,7 @@ select:visited {
   padding-bottom: 25px;
 }
 .ft-project-itembox .ft-project-text .ft-btn a {
-  background-color: #00044b;
+  background-color: #00570E;
 }
 
 .slick-current.slick-center .ft-project-itembox {
@@ -6715,7 +6715,7 @@ select:visited {
 }
 .ft-blog-news-feed-innerbox .ft-blog-feed-text .ft-blog-data a,
 .ft-blog-news-feed-innerbox .ft-blog-feed-text .ft-blog-comment-view a {
-  color: #00044b;
+  color: #00570E;
   font-weight: 500;
 }
 .ft-blog-news-feed-innerbox .ft-blog-feed-text .ft-blog-data a i,
@@ -6732,7 +6732,7 @@ select:visited {
   border-bottom: 2px dashed #d5d5d5;
 }
 .ft-blog-news-feed-innerbox .ft-blog-feed-text h3 {
-  color: #00044b;
+  color: #00570E;
   font-size: 24px;
   font-weight: 700;
   line-height: 1.5;
@@ -9029,7 +9029,7 @@ select:visited {
 /*----------------------------------------------------*/
 .ft-footer-section {
   padding-top: 120px;
-  background-color: #00044b;
+  background-color: #00570E;
 }
 
 .ft-footer-widget-wrapper {
@@ -9044,6 +9044,7 @@ select:visited {
 }
 .ft-footer-widget .logo-widget .site-logo {
   padding-bottom: 20px;
+  margin-right:60px;
 }
 .ft-footer-widget .logo-widget p {
   color: #fff;
@@ -9129,7 +9130,7 @@ select:visited {
 .ft-footer-copywrite-1 {
   color: #fff;
   padding: 16px 0px 14px;
-  background-color: #000891;
+  background-color: #00710B;
 }
 
 .ft-footer-section-2 {
