@@ -274,14 +274,14 @@ select:visited {
   color: #ea1e00;
 }
 .ft-section-title-2 h2 {
-  color: #003440;
+  color: #00570E;
   font-size: 36px;
   font-weight: 700;
   padding-top: 15px;
   padding-bottom: 25px;
 }
 .ft-section-title-2 h2 span {
-  color: #ea1e00;
+  color: #08632d;
 }
 
 .ft-section-title-3 span {
@@ -436,7 +436,7 @@ select:visited {
   font-weight: 600;
   border-radius: 30px;
   font-family: "Poppins";
-  background-color: #ea1e00;
+  background-color: #045439;
 }
 .ft-btn-3 a i {
   top: 2px;
@@ -446,7 +446,7 @@ select:visited {
   transition: 0.3s all ease-in-out;
 }
 .ft-btn-3 a:hover {
-  background-color: #00044b;
+  background-color: #1f940c;
 }
 .ft-btn-3 a:hover i {
   margin-left: 10px;
@@ -878,7 +878,7 @@ select:visited {
 }
 .ft-header-section.header-style-two .ft-header-top {
   overflow: hidden;
-  background-color: #003e4d;
+  background-color: #00710B;
 }
 .ft-header-section.header-style-two .ft-header-top-content li {
   color: #fff;
@@ -912,7 +912,7 @@ select:visited {
   content: "";
   height: 75px;
   position: absolute;
-  background-color: #192c48;
+  background-color: #00570E;
   -webkit-transform: rotate(-40deg);
           transform: rotate(-40deg);
 }
@@ -940,7 +940,7 @@ select:visited {
   font-weight: 700;
 }
 .ft-header-section.header-style-two .ft-header-main-menu-wrapper {
-  background-color: #002a34;
+  background-color: #00570E;
 }
 .ft-header-section.header-style-two .ft-header-main-menu .ft-site-logo-area {
   width: 322px;
@@ -949,7 +949,7 @@ select:visited {
 .ft-header-section.header-style-two .ft-header-main-menu .ft-site-logo {
   width: 240px;
   padding: 14px 15px;
-  background-color: #ea1e00;
+  background-color: #ffffff;
 }
 .ft-header-section.header-style-two .ft-header-main-menu .ft-site-logo:before {
   top: 0;
@@ -958,7 +958,7 @@ select:visited {
   content: "";
   right: -65px;
   position: absolute;
-  border-bottom: 80px solid #ea1e00;
+  border-bottom: 80px solid #ffffff;
   border-right: 65px solid transparent;
 }
 .ft-header-section.header-style-two .ft-header-main-menu .ft-site-logo:after {
@@ -1016,7 +1016,7 @@ select:visited {
   width: 85%;
   position: absolute;
   background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(#fa4216), to(#fa4216));
-  background: rgba(0, 0, 0, 0) linear-gradient(to right, rgba(0, 0, 0, 0), #fa4216, #fa4216);
+  background: rgba(250, 9, 9, 0) linear-gradient(to right, rgba(0, 0, 0, 0), #fa4216, #fa4216);
 }
 .ft-header-section.header-style-three .ft-header-top li {
   color: #fff;
@@ -1248,7 +1248,7 @@ select:visited {
 }
 .ft-header-section.sticky-on.header-style-three {
   padding: 12px 0px;
-  background-color: #121213;
+  background-color: #00570E;
 }
 .ft-header-section.sticky-on.header-style-three .ft-header-top {
   display: none !important;
@@ -2514,10 +2514,10 @@ select:visited {
   font-weight: 600;
   font-family: "Poppins";
   border-radius: 30px;
-  background-color: #ea1e00;
+  background-color: #00570E;
 }
 .ft-banner-text-content .ft-banner-btn-wrapper .ft-banner-btn a:hover {
-  background-color: #00044b;
+  background-color: #046f4b;
 }
 .ft-banner-text-content .ft-banner-btn-wrapper .ft-banner-video-btn a {
   font-weight: 600;
@@ -3518,7 +3518,7 @@ select:visited {
   z-index: 1;
   overflow: hidden;
   padding: 105px 0px;
-  background-color: #002531;
+  background-color: #045439;
 }
 .ft-service-section-2 .ft-service-bg {
   left: 0;
@@ -3545,7 +3545,7 @@ select:visited {
   overflow: hidden;
   margin: 0 auto;
   border-radius: 6px;
-  background-color: #004150;
+  background-color: #056544;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
 }
@@ -3568,7 +3568,7 @@ select:visited {
 .ft-service-innerbox-2 .ft-service-icon i {
   font-size: 30px;
   line-height: 0.75;
-  color: #ea1e00;
+  color: #045439;
 }
 .ft-service-innerbox-2 h3 {
   color: #fff;
@@ -3598,16 +3598,16 @@ select:visited {
   font-weight: 700;
   border-radius: 100%;
   font-family: "Poppins";
-  background-color: #002e39;
+  background-color: #0e4b04;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
   padding: 15px 10px 10px 32px;
 }
 .ft-service-innerbox-2:hover {
-  background-color: #ea1e00;
+  background-color: #1f940c;
 }
 .ft-service-innerbox-2:hover .ft-service-serial {
-  background-color: #c20001;
+  background-color: #1f940c;
 }
 .ft-service-innerbox-2:hover .ft-service-icon {
   -webkit-transform: rotateY(360deg);
@@ -5347,7 +5347,7 @@ select:visited {
   content: "";
   height: 550px;
   position: absolute;
-  background-color: #003440;
+  background-color: #045439;
 }
 .ft-portfolio-section-2 .ft-section-title-2 {
   max-width: 505px;
@@ -5385,7 +5385,7 @@ select:visited {
           transform: translateY(-50%);
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
-  background-color: rgba(0, 54, 66, 0.95);
+  background-color: rgba(71,198, 155,100);
 }
 .ft-portfolio-slider-innerbox .ft-portfolio-text {
   left: 45px;
@@ -6788,7 +6788,7 @@ select:visited {
   width: 100%;
   height: 410px;
   position: absolute;
-  background-color: #003440;
+  background-color: #045439;
 }
 .ft-blog-section-2 .ft-section-title-2 {
   padding-bottom: 45px;
@@ -6829,7 +6829,7 @@ select:visited {
   font-weight: 700;
   border-radius: 5px;
   font-family: "Poppins";
-  background-color: #ea1e00;
+  background-color: #045439;
 }
 .ft-blog-innerbox-2 .ft-blog-text-2 {
   padding: 22px 20px 30px;
@@ -6848,7 +6848,7 @@ select:visited {
   transition: 500ms all ease;
 }
 .ft-blog-innerbox-2:hover {
-  background-color: #ea1e00;
+  background-color: #045439;
   -webkit-box-shadow: 0px 21px 80px 0px rgba(236, 0, 0, 0.3);
           box-shadow: 0px 21px 80px 0px rgba(236, 0, 0, 0.3);
 }
@@ -7881,7 +7881,7 @@ select:visited {
   border-radius: 6px;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
-  border-top: 3px solid #ea1e00;
+  border-top: 3px solid #00570E;
   background-color: white;
   -webkit-box-shadow: 1.91px 10.833px 50px 0px rgba(68, 68, 68, 0.15);
           box-shadow: 1.91px 10.833px 50px 0px rgba(68, 68, 68, 0.15);
@@ -7890,14 +7890,14 @@ select:visited {
   margin-bottom: 18px;
 }
 .ft-featured-innerbox .ft-featured-icon i {
-  color: #003440;
+  color: #00570E;
   font-size: 60px;
   line-height: 0.75;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
 }
 .ft-featured-innerbox .ft-featured-text h3 {
-  color: #003440;
+  color: #00570E;
   font-size: 24px;
   font-weight: 700;
   padding-bottom: 18px;
@@ -7917,11 +7917,11 @@ select:visited {
   position: absolute;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
-  background-color: #ea1e00;
+  background-color: #045439;
 }
 .ft-featured-innerbox:hover {
-  -webkit-box-shadow: 0px 21px 80px 0px rgba(236, 0, 0, 0.3);
-          box-shadow: 0px 21px 80px 0px rgba(236, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 21px 80px 0px #046f4b;
+          box-shadow: 0px 21px 80px 0px #046f4b;
 }
 .ft-featured-innerbox:hover:before {
   height: 100%;
@@ -8027,7 +8027,7 @@ select:visited {
   width: 100%;
   height: 115px;
   position: absolute;
-  background-color: #002531;
+  background-color: #00570E;
 }
 
 .ft-product-mesurment-content {
@@ -8035,7 +8035,7 @@ select:visited {
   border-radius: 8px;
   padding: 60px 30px;
   background-color: #fff;
-  border-top: 5px solid #fde8e8;
+  border-top: 5px solid #d5f5cb;
   -webkit-box-shadow: 3.486px 39.848px 60px 0px rgba(0, 0, 0, 0.15);
           box-shadow: 3.486px 39.848px 60px 0px rgba(0, 0, 0, 0.15);
 }
@@ -8075,7 +8075,7 @@ select:visited {
 }
 .ft-product-mesurment-tab-btn .nav-link.active {
   color: #fff;
-  background-color: #ea1e00;
+  background-color: #00570E;
   -webkit-box-shadow: 0px 21px 80px 0px rgba(236, 0, 0, 0.1);
           box-shadow: 0px 21px 80px 0px rgba(236, 0, 0, 0.1);
 }
@@ -8123,7 +8123,7 @@ select:visited {
   font-family: "Poppins";
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
-  background-color: #002a34;
+  background-color: #00570E;
 }
 .ft-product-mesurment-form-input button:hover {
   background-color: #ea1e00;
@@ -8292,7 +8292,7 @@ select:visited {
 }
 .ft-faq-content .accordion-button::after {
   right: 15px;
-  color: #003440;
+  color: #00570E;
   content: "";
   font-weight: 900;
   font-size: 20px;
@@ -8343,10 +8343,10 @@ select:visited {
 }
 .ft-why-choose-feature-list-item-2 .ft-why-choose-feature-icon i {
   font-size: 35px;
-  color: #ea1e00;
+  color: #00570E;
 }
 .ft-why-choose-feature-list-item-2 .ft-why-choose-feature-text h3 {
-  color: #003440;
+  color: #00570E;
   font-size: 18px;
   font-weight: 700;
   padding-bottom: 10px;
@@ -9233,7 +9233,7 @@ select:visited {
   color: #fff;
   font-weight: 700;
   padding: 22px 0px;
-  background-color: #003440;
+  background-color: #045439;
 }
 
 .ft-footer-section-3 .ft-newslatter-section-3 {
