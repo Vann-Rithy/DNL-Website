@@ -3483,7 +3483,7 @@ select:visited {
   font-weight: 700;
   border-radius: 100%;
   font-family: "Poppins";
-  background-color: #e5e5ed;
+  background-color: #ddf7d4;
   -webkit-transition: 300ms all ease;
   transition: 300ms all ease;
   padding: 15px 10px 10px 32px;
@@ -3493,7 +3493,7 @@ select:visited {
           box-shadow: 1.882px 17.901px 80px 0px rgba(68, 68, 68, 0.15);
 }
 .ft-service-slider-item:hover .ft-service-inner-text .ft-service-serial {
-  background-color: #fde8e5;
+  background-color: #f3f7d4;
 }
 .ft-service-slider-item:hover .ft-service-inner-img img {
   -webkit-transform: scale(1.2);
@@ -6601,6 +6601,7 @@ select:visited {
   padding-left: 20px;
   border: 1px solid #cbcbcb;
 }
+
 .ft-contact-form-wrapper textarea {
   height: 140px;
   padding-top: 15px;
@@ -6608,6 +6609,7 @@ select:visited {
 .ft-contact-form-wrapper .ft-sb-button {
   background-color: #00044b;
 }
+
 
 .ft-contact-cta-items {
   padding: 30px;
@@ -7965,14 +7967,14 @@ select:visited {
   margin: 0 auto;
   margin-bottom: 25px;
   border-radius: 100%;
-  background-color: #fef2f2;
+  background-color: #d5f5cb;
 }
 .ft-goodness-featured-innerbox .ft-goodness-featured-icon i {
   font-size: 40px;
-  color: #ea1e00;
+  color: #00570E;
 }
 .ft-goodness-featured-innerbox .ft-goodness-featured-text h3 {
-  color: #002a34;
+  color: #045439;
   font-size: 24px;
   font-weight: 700;
   padding-bottom: 15px;
@@ -8833,10 +8835,10 @@ select:visited {
 }
 .ft-funfact-innerbox .ft-funfact-icon i {
   font-size: 45px;
-  color: #ea1e00;
+  color: #00570E;
 }
 .ft-funfact-innerbox .ft-funfact-text h3 {
-  color: #052e56;
+  color: #045439;
   font-size: 45px;
   font-weight: 700;
 }
