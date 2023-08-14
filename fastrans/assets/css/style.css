@@ -3545,7 +3545,7 @@ select:visited {
   overflow: hidden;
   margin: 0 auto;
   border-radius: 6px;
-  background-color: #056544;
+  background-color: #00570E;
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
 }
@@ -3604,10 +3604,10 @@ select:visited {
   padding: 15px 10px 10px 32px;
 }
 .ft-service-innerbox-2:hover {
-  background-color: #1f940c;
+  background-color: #00710B;
 }
 .ft-service-innerbox-2:hover .ft-service-serial {
-  background-color: #1f940c;
+  background-color: #00710B;
 }
 .ft-service-innerbox-2:hover .ft-service-icon {
   -webkit-transform: rotateY(360deg);
@@ -9235,7 +9235,7 @@ select:visited {
   color: #fff;
   font-weight: 700;
   padding: 22px 0px;
-  background-color: #045439;
+  background-color: #00570E;
 }
 
 .ft-footer-section-3 .ft-newslatter-section-3 {
